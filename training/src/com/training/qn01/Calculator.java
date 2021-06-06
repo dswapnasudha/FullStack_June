@@ -1,4 +1,4 @@
-package training;
+package com.training.qn01;
 
 public class Calculator {
 
