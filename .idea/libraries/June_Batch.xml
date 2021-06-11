@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="June-Batch">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$" />
+      <root url="file://$PROJECT_DIR$/training/src" />
+    </SOURCES>
+  </library>
+</component>

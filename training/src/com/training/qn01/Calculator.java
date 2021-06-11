@@ -13,6 +13,5 @@ public class Calculator {
 		System.out.println("Subtraction is: " + (a - b));
 		System.out.println("Multiplication is: "+(a * b));
 		System.out.println("Division is: "+(a / b));
-		
 	}
 }
